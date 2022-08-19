@@ -19,7 +19,7 @@ Atualmente trabalhando com foco em Planejamento e Ressuprimento, desenvolvendo p
 
 Encontro do time de Digital da Petlove & Co
 
-<img src=\"bruno.jpeg\" alt=![bruno.jpeg] align=\"left\" width=\"700\" height=\"700\" />
+![alt text](https://github.com/bruno-curta/fiap-live-class-agosto-2022/blob/main/bruno.jpeg)
 
 ## Contexto do Problema que veremos hoje: e-commerce / varejista
 
