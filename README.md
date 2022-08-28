@@ -35,3 +35,16 @@ Encontro do time de Digital da Petlove & Co
 - Customizar campanhas de CRM
 - Trabalhar descontos e brindes de maneira inteligente
 - Ações de retenção e de atendimento personalizadas
+
+## Criando um ambiente virtual para o projeto:
+
+python3 -m venv /path/to/new/virtual/environment
+
+## Acessarndo o ambiente virtual:
+
+source .venv/path/bin/activate
+
+## Instalando os requerimentos:
+
+pip install -r /path/to/requirements.txt
+=======
