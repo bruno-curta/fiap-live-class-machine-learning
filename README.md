@@ -47,3 +47,4 @@ source .venv/path/bin/activate
 ## Instalando os requerimentos:
 
 pip install -r /path/to/requirements.txt
+=======
