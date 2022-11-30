@@ -1,4 +1,5 @@
-# fiap-live-class-agosto-2022
+# fiap-live-class-machine-learning
+# agosto-2022
 Repositório com a aula de machine learning ministrada para a turma da FIAP
 
 # Case de Machine Learning para Live Class FIAP
